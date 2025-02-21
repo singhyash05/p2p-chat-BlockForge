@@ -169,7 +169,7 @@ def main():
             break
 
         else:
-            print("Invalid choice. Please enter 1, 2, or 0.")
+            print("Invalid choice. Please enter 1, 2, 3 or 0.")
 
 
 main()
