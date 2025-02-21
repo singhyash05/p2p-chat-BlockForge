@@ -66,5 +66,4 @@ Example:
 - **Member 3:** Hardik Bansal  - **Roll Number** 230001031
 
 ## References
-- [GeeksforGeeks: Socket Programming](https://www.geeksforgeeks.org/socket-programming-cc/)
-- [Linux IP Address Guide](https://www.ionos.com/digitalguide/hosting/technical-matters/get-linux-ip-address/)
+- [GeeksforGeeks: Socket Programming in Python](https://www.geeksforgeeks.org/socket-programming-python/)
