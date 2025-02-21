@@ -92,7 +92,6 @@ def check_connected_peers():
         except Exception:
             del active_peers[peer_info]
 
-    # ✅ Print results like an array
     if active_list:
         print("\nActive Peers: [", ", ".join(active_list), "]")
     else:
