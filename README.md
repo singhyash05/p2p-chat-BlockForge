@@ -9,6 +9,8 @@ This is a **peer-to-peer (P2P) chat application** developed for **CS216: Introdu
 - **Active Peer Querying**: Users can check which peers are currently online.
 - **Ephemeral Port Handling**: Ensures consistent peer identification despite changing ephemeral ports.
 - **Mandatory Connection**: Messages are always sent to two predefined IP addresses.
+- **Implements BONUS TASK**: Connect to active peers
+
 
 ## Mandatory Peer Addresses
 Your client must **mandatorily** send messages to the following peers:
